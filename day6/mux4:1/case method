@@ -1,0 +1,3 @@
+module mux (input s0,s1,i0,i1,i2,i3, output y)
+
+endmodule
